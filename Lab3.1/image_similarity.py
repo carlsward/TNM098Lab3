@@ -1,3 +1,8 @@
+"""
+in /TNM098LAB3 RUN
+python3 lab3.1/image_similarity.py
+line 223 "reference_idx" variable changes ref image
+"""
 import cv2
 import numpy as np
 import os
